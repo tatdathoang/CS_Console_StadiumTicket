@@ -1,0 +1,11 @@
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.exe.config
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.exe
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.pdb
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\obj\Debug\Stadium_w2.csprojResolveAssemblyReference.cache
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\obj\Debug\Stadium_w2.exe
+D:\_STUDY\Software Development Technique\Projects\Stadium_w2\Stadium_w2\obj\Debug\Stadium_w2.pdb
+D:\_STUDY\Software Development Technique\Assignment\Assignment 1\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.exe.config
+D:\_STUDY\Software Development Technique\Assignment\Assignment 1\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.exe
+D:\_STUDY\Software Development Technique\Assignment\Assignment 1\Stadium_w2\Stadium_w2\bin\Debug\Stadium_w2.pdb
+D:\_STUDY\Software Development Technique\Assignment\Assignment 1\Stadium_w2\Stadium_w2\obj\Debug\Stadium_w2.exe
+D:\_STUDY\Software Development Technique\Assignment\Assignment 1\Stadium_w2\Stadium_w2\obj\Debug\Stadium_w2.pdb
